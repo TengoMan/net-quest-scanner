@@ -108,7 +108,7 @@ export function NetworkScanner() {
             onClick={handleScan}
             className="whitespace-nowrap"
           >
-            <Scan className="h-4 w-4" />
+            <Scan className="h-4 w-4 mr-2" />
             <span>Scan Network</span>
           </ScannerButton>
         </div>
