@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Network Scanner frontend in REACT with interface to NMAP
 
 ## Project info
 
@@ -8,7 +8,7 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**you can Use Lovable**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/76c9d691-70e6-4ae2-b0b5-d719b86e877c) and start prompting.
 
